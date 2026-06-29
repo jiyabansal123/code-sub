@@ -20,7 +20,7 @@ class Solution {
             }
         }
 
-        int count = 0;
+        //int count = 0;
 
     //after cycle sort has been applied, we will find the first element
     //which is not at the correct index, and return that index + 1
