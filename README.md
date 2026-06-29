@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jiyabansal123/code-sub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jiyabansal123/code-sub/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jiyabansal123/code-sub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0767-reorganize-string](https://github.com/jiyabansal123/code-sub/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jiyabansal123/code-sub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jiyabansal123/code-sub/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/jiyabansal123/code-sub/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/jiyabansal123/code-sub/tree/master/1046-last-stone-weight) |
 | [1642-furthest-building-you-can-reach](https://github.com/jiyabansal123/code-sub/tree/master/1642-furthest-building-you-can-reach) |
 ## Quickselect
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/jiyabansal123/code-sub/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/jiyabansal123/code-sub/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jiyabansal123/code-sub/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0767-reorganize-string](https://github.com/jiyabansal123/code-sub/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -48,9 +51,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jiyabansal123/code-sub/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/jiyabansal123/code-sub/tree/master/0767-reorganize-string) |
 ## Greedy
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/jiyabansal123/code-sub/tree/master/0767-reorganize-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/jiyabansal123/code-sub/tree/master/1642-furthest-building-you-can-reach) |
 ## Binary Search
 |  |
@@ -94,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jiyabansal123/code-sub/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/jiyabansal123/code-sub/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
