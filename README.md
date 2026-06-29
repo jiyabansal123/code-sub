@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/jiyabansal123/code-sub/tree/master/0041-first-missing-positive) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jiyabansal123/code-sub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jiyabansal123/code-sub/tree/master/0347-top-k-frequent-elements) |
 | [0875-koko-eating-bananas](https://github.com/jiyabansal123/code-sub/tree/master/0875-koko-eating-bananas) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/jiyabansal123/code-sub/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/jiyabansal123/code-sub/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
