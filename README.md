@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/jiyabansal123/code-sub/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/jiyabansal123/code-sub/tree/master/1046-last-stone-weight) |
 | [1642-furthest-building-you-can-reach](https://github.com/jiyabansal123/code-sub/tree/master/1642-furthest-building-you-can-reach) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jiyabansal123/code-sub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jiyabansal123/code-sub/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jiyabansal123/code-sub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0767-reorganize-string](https://github.com/jiyabansal123/code-sub/tree/master/0767-reorganize-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jiyabansal123/code-sub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/jiyabansal123/code-sub/tree/master/0767-reorganize-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jiyabansal123/code-sub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
