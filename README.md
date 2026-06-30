@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jiyabansal123/code-sub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/jiyabansal123/code-sub/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/jiyabansal123/code-sub/tree/master/1046-last-stone-weight) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jiyabansal123/code-sub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1642-furthest-building-you-can-reach](https://github.com/jiyabansal123/code-sub/tree/master/1642-furthest-building-you-can-reach) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jiyabansal123/code-sub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
@@ -120,4 +121,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jiyabansal123/code-sub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jiyabansal123/code-sub/tree/master/0144-binary-tree-preorder-traversal) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jiyabansal123/code-sub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jiyabansal123/code-sub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
