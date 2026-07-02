@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/jiyabansal123/code-sub/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/jiyabansal123/code-sub/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/jiyabansal123/code-sub/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jiyabansal123/code-sub/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -115,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/jiyabansal123/code-sub/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0767-reorganize-string](https://github.com/jiyabansal123/code-sub/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/jiyabansal123/code-sub/tree/master/0792-number-of-matching-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/jiyabansal123/code-sub/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jiyabansal123/code-sub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
