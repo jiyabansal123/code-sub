@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jiyabansal123/code-sub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/jiyabansal123/code-sub/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/jiyabansal123/code-sub/tree/master/0875-koko-eating-bananas) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jiyabansal123/code-sub/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-last-stone-weight](https://github.com/jiyabansal123/code-sub/tree/master/1046-last-stone-weight) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jiyabansal123/code-sub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1642-furthest-building-you-can-reach](https://github.com/jiyabansal123/code-sub/tree/master/1642-furthest-building-you-can-reach) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jiyabansal123/code-sub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0767-reorganize-string](https://github.com/jiyabansal123/code-sub/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/jiyabansal123/code-sub/tree/master/0792-number-of-matching-subsequences) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jiyabansal123/code-sub/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jiyabansal123/code-sub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bucket Sort
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/jiyabansal123/code-sub/tree/master/0572-subtree-of-another-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jiyabansal123/code-sub/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
