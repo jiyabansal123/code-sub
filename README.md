@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/jiyabansal123/code-sub/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/jiyabansal123/code-sub/tree/master/1046-last-stone-weight) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jiyabansal123/code-sub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jiyabansal123/code-sub/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1642-furthest-building-you-can-reach](https://github.com/jiyabansal123/code-sub/tree/master/1642-furthest-building-you-can-reach) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jiyabansal123/code-sub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jiyabansal123/code-sub/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1004-max-consecutive-ones-iii](https://github.com/jiyabansal123/code-sub/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jiyabansal123/code-sub/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jiyabansal123/code-sub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/jiyabansal123/code-sub/tree/master/0792-number-of-matching-subsequences) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jiyabansal123/code-sub/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Trie
 |  |
 | ------- |
