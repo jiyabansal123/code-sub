@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jiyabansal123/code-sub/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/jiyabansal123/code-sub/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/jiyabansal123/code-sub/tree/master/0875-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/jiyabansal123/code-sub/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jiyabansal123/code-sub/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jiyabansal123/code-sub/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/jiyabansal123/code-sub/tree/master/1046-last-stone-weight) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jiyabansal123/code-sub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jiyabansal123/code-sub/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/jiyabansal123/code-sub/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/jiyabansal123/code-sub/tree/master/0792-number-of-matching-subsequences) |
+| [0918-maximum-sum-circular-subarray](https://github.com/jiyabansal123/code-sub/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jiyabansal123/code-sub/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Trie
 |  |
@@ -176,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jiyabansal123/code-sub/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jiyabansal123/code-sub/tree/master/1004-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/jiyabansal123/code-sub/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/jiyabansal123/code-sub/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
